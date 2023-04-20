@@ -2,10 +2,10 @@
   "name": "web3dfirststeps.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+ "homepage": "https://jmlucero1984.github.io/Web3DFirstSteps.github.io/build/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy" : "gh-pages -d dist"
+   
   },
   "author": "",
   "license": "ISC",
